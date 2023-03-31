@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FirstWorkspace" Database="" Version="10000" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="ProjectTemplate" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="InputOutput" Path="InputOutput/InputOutput.project" Active="No"/>
+  <Project Name="VariablesConstant" Path="VariablesConstant/VariablesConstant.project" Active="No"/>
+  <Project Name="AreaVolumeProblems" Path="AreaProblems/AreaProblems.project" Active="No"/>
+  <Project Name="ArraysVectors" Path="ArraysVectors/ArraysVectors.project" Active="No"/>
+  <Project Name="StatementsAndOperators" Path="StatementsAndOperators/StatementsAndOperators.project" Active="No"/>
+  <Project Name="ControlFlow" Path="ControlFlow/ControlFlow.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ProjectTemplate" ConfigName="Debug"/>
+      <Project Name="InputOutput" ConfigName="Debug"/>
+      <Project Name="VariablesConstant" ConfigName="Debug"/>
+      <Project Name="AreaVolumeProblems" ConfigName="Debug"/>
+      <Project Name="ArraysVectors" ConfigName="Debug"/>
+      <Project Name="StatementsAndOperators" ConfigName="Debug"/>
+      <Project Name="ControlFlow" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ProjectTemplate" ConfigName="Release"/>
+      <Project Name="InputOutput" ConfigName="Release"/>
+      <Project Name="VariablesConstant" ConfigName="Release"/>
+      <Project Name="AreaVolumeProblems" ConfigName="Release"/>
+      <Project Name="ArraysVectors" ConfigName="Release"/>
+      <Project Name="StatementsAndOperators" ConfigName="Release"/>
+      <Project Name="ControlFlow" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

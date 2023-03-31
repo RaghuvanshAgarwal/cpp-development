@@ -1,0 +1,7 @@
+/Volumes/MacintoshHD/Study/CPP/Workspace/StatementsAndOperators/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/AreaProblems/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/ControlFlow/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/VariablesConstant/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/Project1/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/ArraysVectors/main.cpp
+/Volumes/MacintoshHD/Study/CPP/Workspace/InputOutput/main.cpp
